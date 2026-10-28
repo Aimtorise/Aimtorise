@@ -1,6 +1,6 @@
 <!-- Header banner (edit text= to change the title) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:3a2f0b,100:D4AF37&text=Umar%20Altaf&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Founder%20%E2%80%A2%20Urban%20Icons%20Agency%20%E2%80%A2%20Web%20%26%20App%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Umar Altaf banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0d0d,50:3a2f0b,100:D4AF37&text=Umar%20Altaf&fontColor=FFFFFF&fontSize=60&fontAlignY=35&desc=Founder%20of%20Urban%20Icons%20Agency&descAlignY=55&descSize=20" alt="Umar Altaf banner" />
 </p>
 
 <!-- Animated typing line (edit the lines= part, separated by ;) -->
@@ -58,10 +58,6 @@ I'm **Umar Altaf**, an entrepreneur and builder from **Islamabad, Pakistan**.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aimtorise&hide_border=true&background=0d0d0d&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=BBBBBB" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aimtorise&bg_color=0d0d0d&color=E6E6E6&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true" alt="Activity graph" />
 </p>
 
 ## 🤝 Work with me
