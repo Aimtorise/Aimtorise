@@ -5,13 +5,13 @@
 
 <!-- Animated typing line (edit the lines= part, separated by ;) -->
 <p align="center">
-  <a href="https://urbanicons.agency">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Building+websites+%26+web+apps+that+work;Marketing+%26+social+media+that+grows+brands;EdTech+systems+for+schools+%26+campuses;Based+in+Islamabad+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%A2+Working+worldwide" alt="Typing intro" />
+  <a href="https://www.urbanicons.agency">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Build.+Market.+Grow.+Smarter+with+AI.;Social+Media+%E2%80%A2+Web+Design+%E2%80%A2+SaaS;Websites+%26+business+apps+that+work;Branding+%26+ads+that+grow+brands;Based+in+Islamabad+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%A2+Working+worldwide" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://urbanicons.agency"><img src="https://img.shields.io/badge/Website-urbanicons.agency-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d0d0d" alt="Website" /></a>
+  <a href="https://www.urbanicons.agency"><img src="https://img.shields.io/badge/Website-urbanicons.agency-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d0d0d" alt="Website" /></a>
   <a href="mailto:info@urbanicons.agency"><img src="https://img.shields.io/badge/Email-info%40urbanicons.agency-D4AF37?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d0d0d" alt="Email" /></a>
   <a href="https://urbanicons.shop"><img src="https://img.shields.io/badge/Shop-urbanicons.shop-D4AF37?style=for-the-badge&logo=woocommerce&logoColor=black&labelColor=0d0d0d" alt="Shop" /></a>
   <img src="https://komarev.com/ghpvc/?username=Aimtorise&label=Profile%20views&color=D4AF37&style=for-the-badge" alt="Profile views" />
@@ -21,13 +21,34 @@
 
 ## 👋 About me
 
-I'm **Umar Altaf**, an entrepreneur and builder from **Islamabad, Pakistan**.
+I'm **Umar Altaf**, founder of **[Urban Icons Agency](https://www.urbanicons.agency)**, based in **Islamabad, Pakistan** and working with businesses worldwide.
 
-- 🏆 Founder of **[Urban Icons Agency](https://urbanicons.agency)**, a social media and marketing agency serving clients worldwide
-- 🏫 Building digital systems for **Mazen Schools**: school websites, HR, governance and franchise CRM tools
-- 🛍️ Running **[urbanicons.shop](https://urbanicons.shop)**: frames, certificate printing and Islamic learning products
-- ⚡ I ship fast with modern tools and AI, from idea to live product
-- 💬 Ask me about **web apps, WordPress & WooCommerce, branding and digital marketing**
+> **Build. Market. Grow. Smarter with AI.**
+> Human strategy, creative excellence and AI-enhanced execution, building strong brands, high-performing websites, smart business apps and measurable digital growth.
+
+## 🏆 What Urban Icons does
+
+| | Service | What you get |
+|:-:|---|---|
+| 📱 | **[Social Media Management](https://www.urbanicons.agency/services/social-media-management)** | Facebook, Instagram & TikTok: strategy, planning, posting and reporting |
+| 💻 | **[Website Design & Development](https://www.urbanicons.agency/services/website-design)** | Fast, responsive, SEO-ready business sites, landing pages and ecommerce stores |
+| ⚙️ | **[SaaS & Business Web Apps](https://www.urbanicons.agency/services/saas-development)** | Custom CRMs, dashboards, customer portals and workflow automation |
+| 🌐 | **[Managed Websites](https://www.urbanicons.agency/services/managed-websites)** | Design, hosting, maintenance and updates in one monthly plan |
+| 🎨 | **[Content & Graphic Design](https://www.urbanicons.agency/services/content-creation)** | Human-led, AI-assisted creatives for social media and campaigns |
+| 🎯 | **[Paid Advertising](https://www.urbanicons.agency/services/paid-advertising)** | Meta Ads & TikTok Ads with creative testing and optimisation |
+| ✨ | **[Branding & Identity](https://www.urbanicons.agency/services/branding-identity)** | Logos, brand systems and brand guidelines |
+| 🖨️ | **[Print Media Design](https://www.urbanicons.agency/services/print-media)** | Company profiles, brochures, flyers, banners and billboards |
+
+## 🚀 Featured work
+
+- 🏫 **[Mazen Schools Network](https://www.urbanicons.agency/case-studies/mazen-schools-network)**: network website bringing campuses, academics and services together
+- 🤝 **[Connect Portal](https://www.urbanicons.agency/case-studies/connect-portal)**: recruitment, surveys, training and employee learning in one platform
+- 👥 **[HRMS Portal](https://www.urbanicons.agency/case-studies/hrms-portal)**: custom HR management web app with secure internal access
+- 📡 **[Urban Icons Radar](https://www.urbanicons.agency/case-studies/urban-icons-radar)**: SaaS for lead tracking, follow-ups and sales workflows
+- 🛍️ **[UrbanIcons.store](https://www.urbanicons.agency/case-studies/urbanicons-store)**: modern ecommerce storefront for desktop and mobile
+- 📖 **[Al-Furqan Academy](https://www.urbanicons.agency/case-studies/al-furqan-online-quran-academy)**: online Quran academy site with course pages and trial booking
+
+👉 See everything in the **[portfolio](https://www.urbanicons.agency/portfolio)**.
 
 ## 🛠️ Tech & tools
 
@@ -62,8 +83,16 @@ I'm **Umar Altaf**, an entrepreneur and builder from **Islamabad, Pakistan**.
 
 ## 🤝 Work with me
 
-Need a website, an online store, a school system or a marketing push?
-**Reach out at [info@urbanicons.agency](mailto:info@urbanicons.agency)** or visit **[urbanicons.agency](https://urbanicons.agency)**.
+Free consultation for websites, SaaS, social media and branding. International projects quoted in **USD, GBP or EUR**.
+
+<p align="center">
+  <a href="https://www.urbanicons.agency/contact"><img src="https://img.shields.io/badge/Free_Consultation-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Contact" /></a>
+  <a href="https://wa.me/923018560794"><img src="https://img.shields.io/badge/WhatsApp-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=D4AF37" alt="WhatsApp" /></a>
+  <a href="mailto:info@urbanicons.agency"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
+  <a href="https://www.facebook.com/UrbanIcons.agency"><img src="https://img.shields.io/badge/Facebook-0d0d0d?style=for-the-badge&logo=facebook&logoColor=D4AF37" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/urbanicons.agency/"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@urbanicons.agency"><img src="https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=D4AF37" alt="YouTube" /></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:D4AF37,50:3a2f0b,100:0d0d0d" alt="Footer" />
